@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋Feel free to check my school projects
+
+
+My name is Maria and I'm a Full-Stack Web Developer to be 😊
+
+Originally from Russia 🇷🇺, I currently live in Helsinki, Finland 🇫🇮 🌲 ❄️. I'm a student of BCH and a coding amateur 💻
+
+Feel free to check my school projects! 👀
+
 
 <!--
 **mariapokryshkina/mariapokryshkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
