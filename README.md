@@ -7,7 +7,8 @@ Originally from Russia 🇷🇺, I currently live in Helsinki, Finland 🇫🇮 
 
 Feel free to check my school projects! 👀
 
-[Countries App:] (https://unruffled-shirley-ce95c5.netlify.app/).
+[Countries App] (https://unruffled-shirley-ce95c5.netlify.app/).
+
 
 
 
