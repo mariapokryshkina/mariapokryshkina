@@ -10,9 +10,9 @@ Originally from Russia 🇷🇺, I currently live in Helsinki, Finland 🇫🇮 
 
 I'm currently learning React, Node.js, TypeScript 💻
 
-Feel free to check my school projects! 👀
-
 You can contact me via <a href="mailto:maria.pokryshkina@gmail.com" target="_blank">email</a>, <a href="https://t.me/absolut_exempel/" target="_blank">Telegram</a> or <a href="https://www.linkedin.com/in/maria-pokryshkina-0251214b/" target="_blank">LinkedIn</a> 🦋
+
+Feel free to check some of my school projects! 👀
 
 - <a href="https://quirky-volhard-97161d.netlify.app/" target="_blank">Countries App</a>
 - <a href="https://suspicious-kare-fea86a.netlify.app/" target="_blank">Speedgame</a>
