@@ -1,6 +1,8 @@
 ### 
 
-Hi there 👋 My name is Maria and I'm a Full-Stack Web Developer to be 😊
+Hi there 👋 
+====
+My name is Maria and I'm a Full-Stack Web Developer to be 😊
 ====
 
 Originally from Russia 🇷🇺, I currently live in Helsinki, Finland 🇫🇮 🌲 ❄️. I'm a student of BCH and a coding amateur 💻
