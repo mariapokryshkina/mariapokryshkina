@@ -6,13 +6,13 @@
 
 
 
-Originally from Russia 🇷🇺, I currently live in Helsinki, Finland 🇫🇮 🌲 ❄️. I'm a student and a coding amateur 👩🏻‍💻�
+<h4 align="center">Originally from Russia 🇷🇺, I currently live in Helsinki, Finland 🇫🇮 🌲 ❄️. I'm a student and a coding amateur 👩🏻‍💻� </h4>
 
-I'm currently learning React, Node.js, TypeScript 💻
+<h4 align="center">I'm currently learning React, Node.js, TypeScript 💻 </h4>
 
-You can contact me via <a href="mailto:maria.pokryshkina@gmail.com" target="_blank">email</a>, <a href="https://t.me/absolut_exempel/" target="_blank">Telegram</a> or <a href="https://www.linkedin.com/in/maria-pokryshkina-0251214b/" target="_blank">LinkedIn</a> 🦋
+<h4 align="center">You can contact me via <a href="mailto:maria.pokryshkina@gmail.com" target="_blank">email</a>, <a href="https://t.me/absolut_exempel/" target="_blank">Telegram</a> or <a href="https://www.linkedin.com/in/maria-pokryshkina-0251214b/" target="_blank">LinkedIn</a> 🦋 </h4>
 
-Feel free to check some of my school projects! 👀
+<h4 align="center">Feel free to check some of my school projects! 👀</h4>
 
 - <a href="https://quirky-volhard-97161d.netlify.app/" target="_blank">Countries App</a>
 - <a href="https://suspicious-kare-fea86a.netlify.app/" target="_blank">Speedgame</a>
