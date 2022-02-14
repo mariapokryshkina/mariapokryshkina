@@ -6,11 +6,12 @@
 
 
 
-Originally from Russia 🇷🇺, I currently live in Helsinki, Finland 🇫🇮 🌲 ❄️. I'm a student of BCH and a coding amateur 💻
+Originally from Russia 🇷🇺, I currently live in Helsinki, Finland 🇫🇮 🌲 ❄️. I'm a student and a coding amateur 💻
 
 Feel free to check my school projects! 👀
 
-[Countries App] (https://unruffled-shirley-ce95c5.netlify.app/).
+<a href="https://quirky-volhard-97161d.netlify.app/" target="_blank">Countries App</a>
+<a href="https://suspicious-kare-fea86a.netlify.app/" target="_blank">Speedgame</a>
 
 
 
