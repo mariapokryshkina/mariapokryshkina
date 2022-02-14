@@ -4,7 +4,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">A Full-Stack Web Development student at BCH</h3>
 
-====
+
 
 Originally from Russia 🇷🇺, I currently live in Helsinki, Finland 🇫🇮 🌲 ❄️. I'm a student of BCH and a coding amateur 💻
 
