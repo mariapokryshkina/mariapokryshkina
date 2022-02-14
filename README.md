@@ -1,4 +1,5 @@
-### Hi there 👋Feel free to check my school projects
+### Hi there 👋
+=====
 
 
 My name is Maria and I'm a Full-Stack Web Developer to be 😊
