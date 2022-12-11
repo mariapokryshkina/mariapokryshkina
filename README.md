@@ -8,7 +8,7 @@
 
 <h4 align="center">Originally from Russia 🇷🇺, living in Helsinki, Finland 🇫🇮 🌲 ❄️. I'm a student and a coding amateur 👩🏻‍💻� </h4>
 
-<h4 align="center">I'm currently learning React, Node.js, TypeScript 💻 </h4>
+<h4 align="center">I'm working with React, JavaScript, TypeScript, Figma, Tailwind CSS 💻 </h4>
 
 <h4 align="center">You can contact me via <a href="mailto:maria.pokryshkina@gmail.com" target="_blank">email</a>, <a href="https://t.me/absolut_exempel/" target="_blank">Telegram</a> or <a href="https://www.linkedin.com/in/maria-pokryshkina-0251214b/" target="_blank">LinkedIn</a> 🦋 </h4>
 
