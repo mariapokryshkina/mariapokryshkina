@@ -6,7 +6,7 @@
 
 
 
-<h4 align="center">Originally from Russia 🇷🇺, I currently live in Helsinki, Finland 🇫🇮 🌲 ❄️. I'm a student and a coding amateur 👩🏻‍💻� </h4>
+<h4 align="center">Originally from Russia 🇷🇺, living in Helsinki, Finland 🇫🇮 🌲 ❄️. I'm a student and a coding amateur 👩🏻‍💻� </h4>
 
 <h4 align="center">I'm currently learning React, Node.js, TypeScript 💻 </h4>
 
