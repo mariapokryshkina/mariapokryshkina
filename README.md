@@ -1,7 +1,7 @@
 ### 
 
 <h1 align="center">Hi there!  I'm <a href="https://quirky-volhard-97161d.netlify.app/" target="_blank">Maria</a>
-<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif"/>
+<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200" height="100"/>
 </h1>
 <h3 align="center">A Full-Stack Web Development student at BCH</h3>
 
