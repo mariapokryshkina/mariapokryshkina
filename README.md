@@ -1,8 +1,8 @@
 ### 
 
 <h1 align="center">Hi there!  I'm <a href="https://quirky-volhard-97161d.netlify.app/" target="_blank">Maria</a>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-<img src="https://giphy.com/gifs/puppy-doggo-doggie-Gq0TB6Ltlzz0PhKNfV"/>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"/>
+<img src=""/>
 </h1>
 <h3 align="center">A Full-Stack Web Development student at BCH</h3>
 
