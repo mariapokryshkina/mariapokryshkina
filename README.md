@@ -15,7 +15,7 @@
 
 <h4 align="center">Feel free to check some of my school projects! 👀</h4>
 
-<h4 align="center">- <a href="https://quirky-volhard-97161d.netlify.app/" target="_blank">Countries App</a></h4>
+<h4 align="center">- <a href="https://unruffled-shirley-ce95c5.netlify.app">Countries App</a></h4>
 <h4 align="center">- <a href="https://github.com/mariapokryshkina/countries.git" target="_blank">Speedgame</a></h4>
 <h4 align="center">- <a href="https://eloquent-benz-163a15.netlify.app/" target="_blank">Fill In A Form</a></h4>
 
