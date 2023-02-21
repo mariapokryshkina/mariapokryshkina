@@ -7,7 +7,7 @@
 
 
 
-<h4 align="center">Originally from Russia 🇷🇺, living in Helsinki, Finland 🇫🇮 🌲 ❄️. I'm a student and a coding amateur 👩🏻‍💻� </h4>
+<h4 align="center">Lving in Helsinki, Finland 🇫🇮 🌲 ❄️. I'm a student(graduating this spring) and a coding amateur 👩🏻‍💻� </h4>
 
 <h4 align="center">I'm working with React, JavaScript, TypeScript, Figma, HTML5, CSS, Tailwind CSS, MaterialUI & Node.js  💻 </h4>
 
