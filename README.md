@@ -17,6 +17,7 @@
 
 <h4 align="center">Feel free to check my <a href="https://personal-portfolio-tawny-alpha.vercel.app" target="_blank">portfolio page</a> and some of my school projects! 👀</h4>
 
+<h4 align="center">- <a href="https://search-bar-coral.vercel.app" target="_blank">Search Bar</a></h4>
 <h4 align="center">- <a href="https://unruffled-shirley-ce95c5.netlify.app" target="_blank">Countries App</a></h4>
 <h4 align="center">- <a href="https://suspicious-kare-fea86a.netlify.app" target="_blank">Speedgame</a></h4>
 <h4 align="center">- <a href="https://eloquent-benz-163a15.netlify.app/" target="_blank">Fill In A Form</a></h4>
