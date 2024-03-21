@@ -3,7 +3,7 @@
 <h1 align="center">Hi there!  I'm <a href="https://quirky-volhard-97161d.netlify.app/" target="_blank">Maria</a>
 <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="150" height="100"/>
 </h1>
-<h3 align="center">Junior Web Developer with the proven record of developing user-friendly web applications collaborating with cross-functional teams.</h3>
+<h3 align="center">Frontend Developer with the proven record of developing user-friendly web applications collaborating with cross-functional teams.</h3>
 
 <h4 align="center">Skilled in ReactJS, CSS/HTML, TypeScript & JavaScript, Git, Azure DevOps. Passionate about building interactive and responsive web applications, striving for continuous learning, collaboration and innovation.</h4>
 
