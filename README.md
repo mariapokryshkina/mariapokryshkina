@@ -9,7 +9,7 @@
 
 
 
-<h4 align="center">Lving in Helsinki, Finland 🇫🇮 🌲 ❄️ 👩🏻‍💻� </h4>
+<h4 align="center">Living in Helsinki, Finland 🇫🇮 🌲 ❄️ 👩🏻‍💻� </h4>
 
 <h4 align="center">I work with React, JavaScript, TypeScript, Figma, HTML5, CSS & Node.js  💻 </h4>
 
